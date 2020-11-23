@@ -1,2 +1,2 @@
-username : pareshdadas@gamil.com
-password : parezu@13
+username : Your Mail
+password : Password
